@@ -1,0 +1,16 @@
+{
+  "name": "node-sales-dashboard",
+  "version": "1.0.0",
+  "description": "Small sales dashboard - deliberately outdated dependencies for remediation testing",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "0.21.1",
+    "express": "4.17.1",
+    "lodash": "4.17.15",
+    "moment": "2.29.1"
+  }
+}
